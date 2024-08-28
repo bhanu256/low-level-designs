@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5677f3c-2041-4236-99b5-ab13d56f9498" name="Changes" comment="Tic Tac Toe">
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/ProducerConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreading/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/EvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MultiThreading/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThreading/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
